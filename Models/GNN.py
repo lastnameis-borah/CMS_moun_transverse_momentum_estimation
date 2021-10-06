@@ -1,3 +1,6 @@
+# GSoC '21
+""" CERN-HSF """
+
 import torch
 import torch.nn.functional as F
 import torch_geometric.nn as gnn
