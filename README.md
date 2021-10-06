@@ -27,9 +27,7 @@ In the project FCNNs, CNNs, and GNNs are trained and evaluated on the prompt muo
 
 ## How to use
 
-> An example of how to use is available [here](https://www.kaggle.com/prateekagnihotri/cms-example)
-
-1. Make sure that all the libraries mentioned in [requirements.txt](https://github.com/PRATEEKKUMARAGNIHOTRI/CMS_muon_transverse_momentum_estimation/blob/master/requirements.txt) are installed
+1. Make sure that all the libraries mentioned in [requirements.txt](https://github.com/lastnameis-borah/CMS_moun_transverse_momentum_estimation/blob/main/requirements.txt) are installed
 2. Clone the repo
 ```sh
 https://github.com/lastnameis-borah/CMS_moun_transverse_momentum_estimation.git
